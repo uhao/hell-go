@@ -1,5 +1,1 @@
-hello
-line 2
-line master
-line dev
-line dev1
+dev clean
