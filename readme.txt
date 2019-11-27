@@ -15,3 +15,4 @@ dev line3
 dev line4
 >>>>>>> dev
 merge from dev
+master line4
