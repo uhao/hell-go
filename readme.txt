@@ -8,3 +8,4 @@ master line 1
 merge from master
 dev line2
 dev line3
+dev line4
