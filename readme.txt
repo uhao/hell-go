@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 rebase from master
 =======
 <<<<<<< HEAD
@@ -14,3 +15,6 @@ dev line3
 dev line4
 dev line5
 >>>>>>> cee1b51... dev line5
+=======
+rebase from master
+>>>>>>> d0819612bc4812348d05b93f1f1622e605947565
